@@ -1,6 +1,7 @@
 O projeto inteligência artificial e previsões tem como objetivo fazer uma análise de score de clientes de um banco.
 Com isso é possível realizar previsões e classificar os clientes como bons ou ruins.
 Passo a passo do projeto:
+
  • Importar a base de dados, realizei a importação da base de dados utilizando a bliblioteca pandas.
  
  • Verificar informações vazias, por padrão, realizei a verificação de valores vazios, com intuito mitigar problemas no decorrer da análise.
